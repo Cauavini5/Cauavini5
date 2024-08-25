@@ -1,5 +1,14 @@
 ## Hi there 👋
+# Hi, i'm Caua! 👋
+I am a cyber security enthusiast, I am currently studying and training practical laboratories.
+🇧🇷
+## 📚 Certificações
+- ![CC Certified](https://img.shields.io/badge/Certified-CC-blue)
+- Esta certificação demonstra um domínio avançado em cibersegurança, cobrindo áreas como proteção de redes, análise de vulnerabilidades e resposta a incidentes. É adequada para profissionais que desejam validar suas habilidades em segurança da informação e gerenciamento de riscos.
 
+- 
+- ![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-green) 
+- ![Cloud Pentesting](https://img.shields.io/badge/Cloud_Pentesting-Infosec-yellowgreen) 
 <!--
 **Cauavini5/Cauavini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
