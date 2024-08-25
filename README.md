@@ -1,4 +1,5 @@
-![AdobeStock_472913030-WEB-998x450](https://github.com/user-attachments/assets/37925f6f-3486-43ab-8610-67100c65b85b)
+
+![hacker-desktop-wallpaper-cyber-background_910608-3034](https://github.com/user-attachments/assets/bec61798-8bb0-4af6-93ac-8abd2ac2c20d)
 
 
 ## Hi there 👋
