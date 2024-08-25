@@ -1,3 +1,6 @@
+![AdobeStock_472913030-WEB-998x450](https://github.com/user-attachments/assets/37925f6f-3486-43ab-8610-67100c65b85b)
+
+
 ## Hi there 👋
 # Hi, i'm Caua! 👋
 I am a cyber security enthusiast, I am currently studying and training practical laboratories.
