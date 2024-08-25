@@ -24,13 +24,13 @@ This certification is designed to help you perform penetration testing in cloud 
 - **Python**: ![Python Progress](https://img.shields.io/badge/Skill_Level-90%25-blue)
 - **JavaScript**: ![JavaScript Progress](https://img.shields.io/badge/Skill_Level-80%25-yellow)
 - **Flask**: ![Flask Progress](https://img.shields.io/badge/Skill_Level-85%25-orange)
-- **Django**: ![Django Progress](https://img.shields.io/badge/Skill_Level-75%25-green)
+- **Django**: ![Django Progress](https://img.shields.io/badge/Skill_Level-60%25-green)
 - **Splunk**: ![Splunk Progress](https://img.shields.io/badge/Skill_Level-70%25-lightgrey)
 - **AWS**: ![AWS](https://img.shields.io/badge/AWS-32.0-orange)
 
-- **Observação**: Possuo muitas outras habilidades e conhecimentos adicionais em tecnologias e ferramentas, e estou sempre aprendendo e me atualizando para manter-me na vanguarda da tecnologia.
-- ## 🧠 Experiência Prática
-- **TryHackMe**: Completei diversos labs, incluindo [nome do lab] e [nome do lab], focando em [habilidades específicas].
+- **Observação**: I have many other additional skills and knowledge in technologies and tools, and I am always learning and updating myself to stay at the forefront of technology.
+- ## 🧠 Hands-on Experience
+- **TryHackMe**: Completed several labs.
 
 <!--
 **Cauavini5/Cauavini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
