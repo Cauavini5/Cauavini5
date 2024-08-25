@@ -1,5 +1,8 @@
 
-![mapa](https://github.com/user-attachments/assets/729871c3-995a-43de-a55f-6fa437c5d4a8)
+<div align="center">
+  <img src='https://github.com/user-attachments/assets/178a3400-5de8-44a7-96b6-928a254632b1'>
+</div>
+
 
 
 ## Hi there 👋
