@@ -10,7 +10,7 @@
 I am a cyber security enthusiast, I am currently studying and training practical laboratories.
 
 🇧🇷 BR
-## 📚 Certificações
+## 📚 Certificates
 - ![CC Certified](https://img.shields.io/badge/Certified-CC-blue)
  This certification demonstrates advanced mastery of cybersecurity, covering areas such as network protection, vulnerability analysis, and incident response. It is suitable for professionals who want to validate their skills in information security and risk management.
 
