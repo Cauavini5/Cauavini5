@@ -31,6 +31,7 @@ This certification is designed to help you perform penetration testing in cloud 
 - **Observação**: I have many other additional skills and knowledge in technologies and tools, and I am always learning and updating myself to stay at the forefront of technology.
 - ## 🧠 Hands-on Experience
 - **TryHackMe**: Completed several labs.
+- - **PortSwigger**: Completed several labs.
 
 <!--
 **Cauavini5/Cauavini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
