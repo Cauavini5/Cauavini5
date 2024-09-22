@@ -7,7 +7,7 @@
 
 ## Hi there 👋
 # Hi, i'm Caua! 👋
-I am a cyber security enthusiast, I am currently studying and training practical laboratories.
+I am a programmer enthusiast.
 
 🇧🇷 BR
 ## 📚 Certificates
@@ -24,7 +24,7 @@ This certification is designed to help you perform penetration testing in cloud 
 - **Python**: ![Python Progress](https://img.shields.io/badge/Skill_Level-90%25-blue)
 - **JavaScript**: ![JavaScript Progress](https://img.shields.io/badge/Skill_Level-80%25-yellow)
 - **Flask**: ![Flask Progress](https://img.shields.io/badge/Skill_Level-85%25-orange)
-- **Django**: ![Django Progress](https://img.shields.io/badge/Skill_Level-60%25-green)
+- **Django**: ![Django Progress](https://img.shields.io/badge/Skill_Level-90%25-green)
 - **Splunk**: ![Splunk Progress](https://img.shields.io/badge/Skill_Level-70%25-lightgrey)
 - **AWS**: ![AWS](https://img.shields.io/badge/AWS-32.0-orange)
 
